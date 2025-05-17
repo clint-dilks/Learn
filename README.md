@@ -5,6 +5,7 @@
 [Install clang Almalinux 9](https://idroot.us/install-clang-almalinux-9/)
 
 **Compile**: ```  clang++ -Wall hello_world.cpp -o hello_world ``` \
-**Learn**: [https://www.learncpp.com](https://www.learncpp.com/)
+**Learn**: [https://www.learncpp.com](https://www.learncpp.com/) \
+**Json**: [https://github.com/nlohmann/json](https://github.com/nlohmann/json)
 
 #
